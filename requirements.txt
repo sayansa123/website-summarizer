@@ -1,0 +1,7 @@
+langchain-huggingface
+langchain-community
+bs4
+dotenv
+
+fastapi
+uvicorn
