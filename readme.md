@@ -167,6 +167,22 @@ Turn on **Developer Mode** (top-right corner).
 
 ---
 
+## SnapShots
+
+<p>Below are some snapshots of the Chrome extension in action.</p>
+
+<h3>🔹 Extension Popup Interface</h3>
+<p align="center">
+  <img src="images/1.png" alt="Chrome Extension Popup" width="450">
+</p>
+
+<h3>🔹 Website Summary Output</h3>
+<p align="center">
+  <img src="images/2.png" alt="Website Summary Output" width="450">
+</p>
+
+---
+
 ## Author
 
 **Shayan Sarkar**
